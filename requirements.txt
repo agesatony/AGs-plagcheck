@@ -5,3 +5,4 @@ fpdf
 aiohttp
 docx2txt
 nltk
+scikit-learn
