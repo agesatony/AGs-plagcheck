@@ -4,3 +4,4 @@ pymupdf
 fpdf
 aiohttp
 docx2txt
+nltk
